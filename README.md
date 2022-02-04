@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bisuraj Sharma</h1>
-<h3 align="center">A passionate frontend developer- web design and Android app developer from India</h3>
+<h3 align="center">A passionate frontend developer- web design and Android app developer from Nepal</h3>
 
 - 🔭 I’m currently working on **Chat Application Using AES and Job Portal For Disabled People**
 
