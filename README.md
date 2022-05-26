@@ -8,7 +8,7 @@ I am Learning to code from last two years and currently working on Web and Andro
 
 *   🌍  I'm based in Bengaluru
 *   ✉️  You can contact me at [bisurajsharmaa@gmail.com](mailto:bisurajsharmaa@gmail.com)
-*   🚀  I'm currently working on [MyPortfolio](http://bisuraj.github.io/myportfolio/)
+*   🚀  I'm currently working on [MyPortfolio](https://www.bisurajsharma.com.np/)
 *   🧠  I'm learning React Js, Express Js, Angular , Firebase , Android Development
 *   🤝  I'm open to collaborating on Any Interesting Web Projects
 *   ⚡  Fun fact I think i got a Good Sense of Humour### Skills<p align="left">
